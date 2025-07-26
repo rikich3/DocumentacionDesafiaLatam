@@ -4,7 +4,7 @@ LAS PREGUNTAS DEBEN AYUDARNOS A COMPRENDER LAS NECESIDADES, LAS FRUSTRACIONES Y
 LOS DESEOS DE NUESTROS USUARIOS.
 
 ----------------------------------------
-EMPRESAS:
+EMPRESAS (ejemplo Mg Saenz):
 
 1	Dada la complejidad de integrar nuevas tecnologías y la resistencia natural al cambio en entornos académicos, ¿cuáles han sido las estrategias más efectivas que la PUCP ha implementado para fomentar la adopción de herramientas de IA entre los docentes, y cómo se ha gestionado la motivación y el compromiso continuo del profesorado?
 2	Más allá de la eficiencia operativa, ¿cómo ha transformado la integración de la IA las metodologías de enseñanza y aprendizaje en la PUCP, específicamente en términos de personalización del aprendizaje, fomento de habilidades del siglo XXI y el rol del docente? ¿Podría compartir ejemplos concretos de estas transformaciones?
