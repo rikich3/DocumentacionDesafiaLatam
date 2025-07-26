@@ -48,18 +48,18 @@ b) Relevancia con la temática: El proyecto se vincula claramente con una de las
 temáticas propuestas.
 c) Uso de tecnologías de IA: Se demuestra comprensión y aplicación efectiva de
 técnicas de IA.
-d) Justificación tecnológica: El uso de IA es pertinente, éticamente considerado y
-técnicamente viable.
+d) Justificación tecnológica: El uso de IA es pertinente, éticamente considerado y técnicamente viable.
 e) Pertinencia del problema abordado: El proyecto responde a un problema real
 con impacto local o global.
-f) Consideraciones éticas y sostenibilidad: Se explicitan las implicancias éticas y
-se demuestra responsabilidad social.
+f) Consideraciones éticas y sostenibilidad: Se explicitan las implicancias éticas y se demuestra responsabilidad social.
 g) Desarrollo funcional: El prototipo está implementado o tiene avance concreto.
 h) Escalabilidad y sostenibilidad: La solución es viable técnicamente y puede
 escalarse o adaptarse a otros contextos de forma efectiva.
 i) Claridad de la presentación: Se comunica de forma clara, atractiva e inclusiva.
 j) Documentación y soporte visual: Se entrega pitch claro, video técnico, resumen
 ejecutivo o demo documentado.
+
+
 
 --------
 
