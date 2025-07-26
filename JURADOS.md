@@ -5,7 +5,9 @@ descripcion de la solucion:
 
 Con nuestra solucion queremos apoyar a las empresas a que puedan realizar sus campañas de capacitacion de forma inteligente y pensando en el futuro, utilizando una plataforma mejorada con machine learning que identifique patrones de afinidad entre las personas con las tecnologias y herramientas que son usadas en la industria, beneficiando ambas partes, De esta manera los estudiantes del presente puedan ser eficientes y felices trabajadores del mañana.
 
+<>
 
+<>
 
 MODELO DE PLATZI (TRADICIONAL)
 
