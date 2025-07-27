@@ -3,6 +3,7 @@ QUEREMOS TENER LAS PREGUNTAS PARA LAS ENTREVISTAS.
 LAS PREGUNTAS DEBEN AYUDARNOS A COMPRENDER LAS NECESIDADES, LAS FRUSTRACIONES Y
 LOS DESEOS DE NUESTROS USUARIOS.
 
+
 PARA LOS USUARIOS TRABAJADORES Y ESTUDIANTES:
 "Cuéntame sobre la última vez que sentiste la necesidad de aprender algo nuevo o mejorar una habilidad. ¿Qué disparó esa necesidad?"
 
@@ -12,3 +13,11 @@ PARA LOS USUARIOS TRABAJADORES Y ESTUDIANTES:
 
 "¿Para ti que es el exito?"
 
+----------------------------------------
+EMPRESAS (ejemplo Mg Saenz):
+
+1	Dada la complejidad de integrar nuevas tecnologías y la resistencia natural al cambio en entornos académicos, ¿cuáles han sido las estrategias más efectivas que la PUCP ha implementado para fomentar la adopción de herramientas de IA entre los docentes, y cómo se ha gestionado la motivación y el compromiso continuo del profesorado?
+2	Más allá de la eficiencia operativa, ¿cómo ha transformado la integración de la IA las metodologías de enseñanza y aprendizaje en la PUCP, específicamente en términos de personalización del aprendizaje, fomento de habilidades del siglo XXI y el rol del docente? ¿Podría compartir ejemplos concretos de estas transformaciones?
+3	La implementación de IA no está exenta de desafíos. ¿Cuáles han sido los principales obstáculos técnicos, pedagógicos o éticos que han encontrado en la PUCP, y qué medidas se están tomando para mitigar riesgos como el sesgo algorítmico, la privacidad de datos, la integridad académica (ej. plagio con IA) y la posible deshumanización del aprendizaje?
+4	¿Cómo mide la PUCP el impacto real y el retorno de inversión de la capacitación en IA para los docentes? ¿Qué métricas clave utilizan para evaluar no solo la satisfacción, sino también la aplicación de las nuevas metodologías en el aula y su efecto en los resultados de aprendizaje de los estudiantes?
+5	Pensando en el futuro, ¿cuáles son los planes de la PUCP para escalar la integración de la IA a nivel institucional y asegurar su sostenibilidad a largo plazo? ¿Cómo prevén la evolución de las herramientas de IA, la necesidad de upskilling continuo del profesorado y la infraestructura tecnológica necesaria para mantener la universidad a la vanguardia de la educación con IA?
