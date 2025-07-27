@@ -1,2 +1,0 @@
-
-<Impedimiento visual>
